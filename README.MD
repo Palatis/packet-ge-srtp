@@ -4,7 +4,7 @@ v0.0.1
 
 # Overview
 
-This is a (rather quick-and0dirty) Wireshark Lua dissector for the GE-FANUC Service Request Transfer Protocol.
+This is a (rather quick-and-dirty) Wireshark Lua dissector for the GE-FANUC Service Request Transfer Protocol.
 This is a private protocol with minimum documentations, but you can still find some lying around over the internet.
 For more information, see the [References](#references) section.
 
@@ -22,7 +22,7 @@ Copy or symlink the `packet-ge-srtp.lua` file to either Wireshark global (`/usr/
 
 ## Windows
 
-Copy or symlink the `packet-ge-srtp.lua` file to either Wireshark global (`%WIRESHARK%\plugins`) or
+Copy the `packet-ge-srtp.lua` file to either Wireshark global (`%WIRESHARK%\plugins`) or
 per-user (`%APPDATA%\Wireshark\plugins`) plugin directory.
 
 ## Mac
