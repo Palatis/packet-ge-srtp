@@ -43,7 +43,7 @@ do
     --
     local DISSECTOR_VERSION         = "0.0.1"
 
-    local DEFAULT_GESRTP_PORT       = 60008
+    local DEFAULT_GESRTP_PORT       = 18245
 
 	-- 
 	-- misc
